@@ -1,7 +1,7 @@
 CSSFileManager
 ==============
 
-CSSFile Manager base on Bootstrap and jQuery.
+CSSFileManager base on Bootstrap and jQuery.
 
 Featured:
 + Manage file, folder
